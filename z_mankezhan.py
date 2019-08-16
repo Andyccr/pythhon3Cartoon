@@ -3,9 +3,12 @@
 
 # 第一步：导入第三方包
 import requests
-from lxml import etree
-from bs4 import BeautifulSoup
-from fake_useragent import UserAgent
+from lxml 
+import etree
+from bs4 
+import BeautifulSoup
+from fake_useragent 
+import UserAgent
 import os
 import re
 import CartoonSql
